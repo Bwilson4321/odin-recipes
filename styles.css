@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(209, 227, 231);
+    border-style: double;
+    border-width: 8px;
+    border-color: darkgray;
+    margin: 10px;
+   
+}
+
+img{
+    height: auto;
+    width: 500px; 
+}
+
+img{
+    width: 100%;
+    z-index: 0;
+}
+
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.btn {
+    background-color: rgb(47, 125, 194);
+    border: 1px solid black;
+    color: white;
+    padding: 4px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    border-radius: 22px;
+    cursor: pointer;
+}
+
+    a:link, a:visited, a:hover, a:active {
+        color: white;
+
+    }
+
+.magnoliacakepage {
+    max-width: 100%;
+    height: auto;
+
+}
+.magnoliabody {
+    background-color: rgb(209, 227, 231);
+    border-style: single;
+    border-width: 8px;
+    border-color: darkgray;
+    margin: 10px;
+}
+.chikenspaghettipage {
+    max-width: 100%;
+    height: auto;
+}
+.chickenbody {
+    background-color: rgb(209, 227, 231);
+    border-style: single;
+    border-width: 8px;
+    border-color: darkgray;
+    margin: 10px;
+}
+.shrimpdippage {
+    max-width: 100%;
+    height: auto;
+
+}
+.shrimpdipbody{
+    background-color: rgb(209, 227, 231);
+    border-style: single;
+    border-width: 8px;
+    border-color: darkgray;
+    margin: 10px;
+}
+   
